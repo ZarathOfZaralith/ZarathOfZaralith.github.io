@@ -19,7 +19,7 @@ header{
 	max-height:10vh;
 	margin:0px;
 	overflow:hidden;
-	background-color:#eecc00;
+	background-color:#ffdd00;
 }
 header h1{
 	margin:0px;
@@ -94,7 +94,7 @@ footer{
 	-webkit-border-top-right-radius: 5vh;
 	-webkit-border-top-left-radius: 5vh;
 	border-top:.5vh solid #AA1111;
-	background-color:#eecc00;
+	background-color:#ffdd00;
 	color:#AA1111;
 	text-align:center;
 	height:5.5vh;
